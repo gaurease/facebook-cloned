@@ -1,0 +1,5 @@
+.sidebar{
+    padding: 20px 10px;
+    display: flex;
+    flex: 0.33;
+}
